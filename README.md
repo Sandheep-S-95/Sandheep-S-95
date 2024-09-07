@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/user-attachments/assets/70306476-c73d-486d-bd88-395ae94a1cd8)
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
