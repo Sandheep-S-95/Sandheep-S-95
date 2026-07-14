@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-🎓 Currently pursuing my 5th semester in MSc. Software Systems<br>
+🎓 Currently pursuing my 10th semester in MSc. Software Systems<br>
 🤝 Looking to collaborate on AI/ML workflows<br>
-🔍 Seeking help with Blockchain development<br>
-📚 Currently learning DeepLearning and BigData Analytics<br>
+🔍 Seeking help in shipping custom automations<br>
+📚 Currently learning Deep Learning and Computer Vision<br>
 💬 Ask me about Cars, Coding, and Calisthenics<br>
 
 "Dedicated in finding ways of eating my cake, and having it too." 🍰✨
